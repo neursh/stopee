@@ -1,2 +1,2 @@
 # Stopee
-A browser extension to minimize websites redirect users to Shopee affiliate
+A browser extension to block Shopee affiliate
